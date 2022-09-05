@@ -1,0 +1,11 @@
+experiments/*
+media/index
+media/lfw
+__pycache__
+*.pyc
+yolov5x.pt
+temp.*
+*.egg-info
+.env
+.vscode
+envs
