@@ -11,8 +11,8 @@ The documentation is available here: https://traction-project.github.io/FaceObjR
 ## Installation
 
 Follow the instructions at https://pytorch.org/ to install PyTorch for your
-system using ether `conda` or `pip`. If you have a CUDA compatible graphics
-card, ensure to install a CUDA comparible version of PyTorch to allow the
+system using either `conda` or `pip`. If you have a CUDA compatible graphics
+card, ensure to install a CUDA compatible version of PyTorch to allow the
 deep models to run on the GPU.
 
 To install the `facerec` package and `facetool` console script, run:
